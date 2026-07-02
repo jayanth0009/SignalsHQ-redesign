@@ -22,7 +22,7 @@ I saw the fast-track option in the JD and built a product-led redesign concept f
 
 Instead of only changing the visual style, I designed the page around the workflow I imagine CPA teams care about most: client document intake, AI extraction, tax research, review queues, and audit-ready outputs.
 
-Live demo: [add link]  
+Live demo: https://signalshq-redesign-six.vercel.app  
 GitHub: [add link]  
 Walkthrough: [add link]
 
@@ -37,7 +37,7 @@ Jayanth Kandula
 
 Hi SignalsHQ team, I saw your fast-track option for the Frontend Product Engineer Intern role and built a product-led redesign concept around CPA tax workflows: intake, extraction, research, review, and audit-ready outputs.
 
-Demo: [add link]  
+Demo: https://signalshq-redesign-six.vercel.app  
 GitHub: [add link]
 
 Would love for you to take a look.

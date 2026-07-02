@@ -2,6 +2,8 @@
 
 Product-led homepage redesign built as a fast-track application for the Frontend Product Engineer Intern role.
 
+Live demo: https://signalshq-redesign-six.vercel.app
+
 ## Idea
 
 SignalsHQ helps CPA firms use AI across tax workflows. This redesign concept makes that product promise visible immediately by showing a realistic command-center experience: client intake, document extraction, tax research, review queues, and audit-ready outputs.
@@ -38,7 +40,7 @@ Hi SignalsHQ team,
 
 I saw the fast-track option and built a product-led redesign of SignalsHQ around the workflow I imagine CPA teams care about most: document intake, AI extraction, tax research, review queues, and audit-ready outputs.
 
-Live demo: [add link]
+Live demo: https://signalshq-redesign-six.vercel.app
 GitHub: [add link]
 Walkthrough: [add link]
 
